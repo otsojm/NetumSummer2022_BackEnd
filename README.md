@@ -13,3 +13,5 @@ This is the Back-End side for the Netum Summer job 2022 Pre-Assigment.
 - PostgreSQL Database.
 
 - [Example endpoint](https://json.netumsummer.awsproject.link/persons/) 
+
+- [Front-End side](https://github.com/otsojm/NetumSummer2022_FrontEnd)
